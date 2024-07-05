@@ -17,4 +17,4 @@ npm install
 ```
 npm run start
 ```
-Good luck have fun!
+GLHF! (*INI BUKAN PERINTAH, JANGAN DIKETIK JUGAAA)
