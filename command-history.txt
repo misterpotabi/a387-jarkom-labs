@@ -1,0 +1,209 @@
+    1  exit
+    2  sudo apt update
+    3  sudo apt install git
+    4  git --version
+    5  sudo apt install neofetch
+    6  neofetch
+    7  exit
+    8  neofetch
+    9  +++
+   10  ls -a
+   11  gh --version
+   12  clear
+   13  git --v
+   14  git --version
+   15  clear
+   16  git --version
+   17  mkdir latihan-git
+   18  cd latihan-git/
+   19  sudo apt install gh
+   20  gh --version
+   21  gh auth login
+   22  sudo apt install google-chrome-stable
+   23  sudo apt update
+   24  sudo apt install google-chrome-stable
+   25  $ cd /tmp $ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 
+   26  $ sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   27  exit
+   28  ls
+   29  als
+   30  ls
+   31  mkdir app
+   32  rmdir -r app/
+   33  rm -r app/
+   34  ls
+   35  mkdir paket-aplikasi
+   36  cd paket-aplikasi/
+   37  ls
+   38  sudo apt update
+   39  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   40  google-chrome 
+   41  google-chrome-stable
+   42  sudo apt install -f
+   43  google-chrome
+   44  sudo apt install chromium-browser
+   45  chromium-browser
+   46  exit
+   47  google-chrome
+   48  ls
+   49  cd latihan-git/
+   50  sudo apt update
+   51  snap -v
+   52  cleat
+   53  clear
+   54  sudo apt update
+   55  cd latihan-git/
+   56  ls
+   57  gh -v
+   58  gh -version
+   59  gh
+   60  gh auth login
+   61  exit
+   62  chromium-browser
+   63  clear
+   64  neofetch
+   65  clear
+   66  neofetch
+   67  ls
+   68  cd latihan-git/
+   69  gh auth
+   70  gh auth login
+   71  clear
+   72  ls
+   73  cd
+   74  ls
+   75  cd latihan-git/
+   76  cd ..
+   77  ls
+   78  cd latihan-git/
+   79  cd 
+   80  cd latihan-git/
+   81  google-chrome
+   82  clear
+   83  git status
+   84  gh status
+   85  gh alias
+   86  gh auth
+   87  gh auth login
+   88  gh auth status
+   89  clear
+   90  gh auth status
+   91  gh auth login
+   92  gh status
+   93  gh auth login
+   94  git init
+   95  code .
+   96  ls
+   97  exit
+   98  chromium-browser
+   99  clear
+  100  ls
+  101  cd latihan-git/
+  102  ls
+  103  git -v
+  104  git --v
+  105  clear
+  106  sudo apt install git
+  107  git --version
+  108  clear
+  109  cd..
+  110  cd ..
+  111  ls
+  112  cd latihan-git/
+  113  code .
+  114  sudo apt install code
+  115  clear
+  116  sudo snap install
+  117  sudo apt install snap
+  118  clear
+  119  git --version
+  120  gh --version
+  121  gj
+  122  gh status
+  123  gh auth
+  124  gh auth login
+  125  sudo snap install code
+  126  sudo snap install code --classic
+  127  clear
+  128  gh auth status
+  129  code .
+  130  cd ..
+  131  cd latihan-git/
+  132  ls -a
+  133  sudo rm -r .git/
+  134  ls
+  135  ls -a
+  136  clear
+  137  code .
+  138  ls
+  139  rm -r index.html 
+  140  ls
+  141  clear
+  142  ls
+  143  nano index.html
+  144  ls
+  145  code .
+  146  ls
+  147  cd ..
+  148  mkdir git-latihan
+  149  ls
+  150  cd git-latihan/
+  151  code .
+  152  ls
+  153  git init
+  154  exit
+  155  google-chrome
+  156  sudo poweroff
+  157  poweroff
+  158  neofetch
+  159  clear
+  160  neofetch
+  161  clear
+  162  neofetch
+  163  sudo apt update
+  164  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+  165  sudo nvm install v14.15.4
+  166  nvm install v14.15.4
+  167  git clone https://github.com/dicodingacademy/a387-jarkom-labs.git
+  168  nvm install v14.15.4
+  169  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+  170  cd a387-jarkom-labs/
+  171  code .
+  172  nvm install v14.15.4
+  173  node -v
+  174  ls
+  175  cd a387-jarkom-labs/
+  176  ls
+  177  npm install
+  178  npm audit fix
+  179  npm fun
+  180  npm fund
+  181  node -v
+  182  npm run start
+  183  cd a387-jarkom-labs/
+  184  ls -a
+  185  rm -r .git
+  186  sudo rm -r .git
+  187  git init
+  188  cat .git
+  189  cd .git
+  190  ls
+  191  ls -a
+  192  cat config 
+  193  cat index 
+  194  cat COMMIT_EDITMSG 
+  195  cd ..
+  196  git add .
+  197  git commit -m "update lagi!"
+  198  git config --global user.email "misterpotabi@gmail.com"
+  199  git config --global user.name "misterpotabi"
+  200  git commit -m "update lagi!"
+  201  git push
+  202  cd ..
+  203  ls
+  204  git clone https://github.com/misterpotabi/uas-komgraf-24.git
+  205  cd uas-komgraf-24/
+  206  ls
+  207  git init
+  208  cd uas-komgraf-24/
+  209  history > command-history.txt
