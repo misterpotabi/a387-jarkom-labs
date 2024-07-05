@@ -1,4 +1,4 @@
-# A387-Jarkom-Labs
+# UAS-komgraf-24
 
 Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
 
@@ -17,3 +17,4 @@ npm install
 ```
 npm run start
 ```
+Good luck have fun!
