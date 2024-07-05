@@ -1,6 +1,6 @@
 # UAS-komdat-24
 
-Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
+Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop kamu.
 
 ---
 
